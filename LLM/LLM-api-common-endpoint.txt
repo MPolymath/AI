@@ -1,0 +1,17 @@
+auth
+billing
+chat/completions
+models
+users
+embeddings
+health
+status
+completions
+embeddings
+images/generations
+images/edits
+audio/transcriptions
+audio/translations
+audio/speech
+moderations
+models
