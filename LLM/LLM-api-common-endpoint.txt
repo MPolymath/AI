@@ -30,3 +30,6 @@ moderations
 /.well-known/manifest.json
 /robots.txt
 /sitemap.xml
+/vector/collections
+metrics
+/healthz
